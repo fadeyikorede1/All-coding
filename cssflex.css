@@ -1,0 +1,13 @@
+.flex_container{
+    display: flex;
+    justify-content: space- space-between;
+    align-items: center;
+    height: 700px;
+    border: 1px solid green;
+}
+
+div{
+    border:1px solid red;
+    flex: 1;
+    /*  width: 500px; */
+}

@@ -1,0 +1,10 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: minmax(200px, auto);
+    gap: 30px 20px;
+    border: 1px solid red;
+}
+div{
+    border: 1px solid red;
+}
